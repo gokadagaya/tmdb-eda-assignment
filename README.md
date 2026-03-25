@@ -1,2 +1,2 @@
 # tmdb-eda-assignment
-tmdb_assignment
+Built a secure TMDB movie data pipeline with SQLite storage and exploratory data analysis.
